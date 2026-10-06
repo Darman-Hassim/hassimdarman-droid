@@ -11,8 +11,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 sql,c++,java
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- A RAG Fine tune personal AI (Privately can help user to do their work by providing user data in user own device)
 
 ## Contact
-- LinkedIn: [your profile link]
 - Email: hassimdarman@gmail.com
