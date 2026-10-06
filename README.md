@@ -5,14 +5,14 @@ Computer Science student at UiTM interested in software engineering and AI.
 ## About me
 - Studying: Computer Science, UiTM
 - Currently learning: Special Topic Of Computer Sciennce.
-- My FYP area: [your area, or "still deciding"]
+- My FYP area: RAG and LLM
 
 ## Skills and tools
-[List what you know. Example: Python, Git, SQL]
+sql,c++,java
 
 ## Projects
 - [Project name](link-to-your-repository): one sentence about it
 
 ## Contact
 - LinkedIn: [your profile link]
-- Email: [a professional email address]
+- Email: hassimdarman@gmail.com
